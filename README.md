@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Ayush Tiwari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 Code Eat Learn Repeat**
+- 🔭 **Code Eat Learn Repeat**
 
 - 📫 How to reach me **taayush072@gmail.com**
 
