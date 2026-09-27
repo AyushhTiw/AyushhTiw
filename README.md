@@ -29,10 +29,25 @@
 
 ### Languages and Tools:
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,mysql,firebase,python,django" />
-</p>
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyushhTiw&count_bg=%232E82C3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false" alt="Profile views" />
-</a>
+🛠️ Languages & Technologies
+Languages
 
+<p> <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" /> </p>
+
+Backend & Frameworks
+
+<p> <img src="https://skillicons.dev/icons?i=spring,django" /> </p>
+
+Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,react" /> </p>
+
+Databases
+
+<p> <img src="https://skillicons.dev/icons?i=mysql,firebase" /> </p>
+
+Tools
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven" /> </p>
+
+<a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyushhTiw&count_bg=%232E82C3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false" alt="Profile views" /> </a>
