@@ -35,8 +35,4 @@
 
 ---
 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyushhTiw&count_bg=%232E82C3&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
-</a>
-
-<a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyushhTiw&count_bg=%232E82C3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false" alt="Profile views" /> </a>
+<img src="https://komarev.com/ghpvc/?username=AyushhTiw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
