@@ -33,6 +33,3 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,spring,django,mysql,firebase,git,github,idea,vscode,maven,postman" />
 </p>
 
----
-
-<img src="https://komarev.com/ghpvc/?username=AyushhTiw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
